@@ -9,6 +9,7 @@ div {
     padding : 20px;
     text-align : center;
     
+    
 }
 .logo{
     height : 27px;
@@ -59,7 +60,9 @@ h1,h2,h3{
     
 }
 .div7{
+    height : 500px;
     display : flex;
+    flex-grow :1;
 }
 a{
     color : grey;
